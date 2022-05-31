@@ -1,0 +1,25 @@
+{
+  "todos": [
+    {
+      "payload": {
+        "name": "learn vue",
+        "status": "Not Completed"
+      },
+      "id": 1
+    },
+    {
+      "payload": {
+        "name": "learn javascript",
+        "status": "Not Completed"
+      },
+      "id": 2
+    },
+    {
+      "payload": {
+        "name": "Play Outdoor game",
+        "status": "Not Completed"
+      },
+      "id": 3
+    }
+  ]
+}
